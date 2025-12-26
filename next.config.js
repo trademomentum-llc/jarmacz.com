@@ -1,15 +1,18 @@
 /** @type {import('next').NextConfig} */
+
+// Set to 'export' for cPanel static hosting, 'standalone' for NUC self-hosting
+const DEPLOYMENT_MODE = process.env.DEPLOYMENT_MODE || 'export'
+
 const nextConfig = {
-  output: 'standalone',
+  output: DEPLOYMENT_MODE,
   reactStrictMode: true,
   images: {
-    unoptimized: false,
+    // Must be true for static export
+    unoptimized: DEPLOYMENT_MODE === 'export',
     remotePatterns: [],
   },
-  // Preserve static files
-  trailingSlash: false,
-  // Enable static HTML export if needed (for static hosting)
-  // output: 'export',
+  // Use trailing slash for better static hosting compatibility
+  trailingSlash: DEPLOYMENT_MODE === 'export',
 }
 
 module.exports = nextConfig

@@ -13,7 +13,7 @@ export default function Home() {
         <NeuralCanvas />
         <div className="hero-content">
           <h1 className="glitch">JASON JARMACZ</h1>
-          <p className="subtitle">NeuroProgressive AI Evolution Strategist | Human-as-the-Loop Innovation Architect</p>
+          <p className="subtitle">NeuroDivergent AI Evolution Strategist | Human-as-the-Loop Innovation Architect</p>
           <div className="metrics">
             <AnimatedCounter target={99.7} label="Synergy Optimization" />
             <AnimatedCounter target={5} label="Groundbreaking Projects" />
@@ -30,10 +30,10 @@ export default function Home() {
         </p>
 
         <div className="innovation-grid">
-          {/* NeuroProgressive AI */}
+          {/* NeuroDivergent AI */}
           <div className="innovation-card">
             <span className="innovation-tag">Neurotechnology × AI</span>
-            <h3>NeuroProgressive AI Platform</h3>
+            <h3>NeuroDivergent AI Platform</h3>
             <p>Revolutionary Human-as-the-Loop brain-computer interface integrating non-invasive BCIs, deep learning, and focused ultrasound neuromodulation. Restoring communication for paralyzed patients while pioneering ethical AI-human symbiosis.</p>
             
             <div className="math-framework">
@@ -57,7 +57,7 @@ export default function Home() {
                 <span className="stat-label">Cost Savings</span>
               </div>
             </div>
-            <Link href="/neuroprogressive-ai" className="cta-button">Explore Framework</Link>
+            <Link href="/projects/neurodivergent-ai" className="cta-button">Explore Framework</Link>
           </div>
 
           {/* IHEP */}
@@ -87,7 +87,7 @@ export default function Home() {
                 <span className="stat-label">Security Model</span>
               </div>
             </div>
-            <Link href="/ihep" className="cta-button">Learn More</Link>
+            <Link href="/projects/ihep" className="cta-button">Learn More</Link>
           </div>
 
           {/* Mission Valley */}
@@ -117,7 +117,7 @@ export default function Home() {
                 <span className="stat-label">Economic Impact</span>
               </div>
             </div>
-            <Link href="/mission-valley" className="cta-button">View Analysis</Link>
+            <Link href="/projects/mission-valley" className="cta-button">View Analysis</Link>
           </div>
 
           {/* JESS */}
@@ -147,7 +147,7 @@ export default function Home() {
                 <span className="stat-label">Energy Savings</span>
               </div>
             </div>
-            <Link href="/jess" className="cta-button">Technical Details</Link>
+            <Link href="/projects/jess" className="cta-button">Technical Details</Link>
           </div>
 
           {/* DIPG AI Therapeutic */}
@@ -178,7 +178,7 @@ export default function Home() {
                 <span className="stat-label">Dev Timeline</span>
               </div>
             </div>
-            <Link href="/dipg" className="cta-button">Research Summary</Link>
+            <Link href="/projects/dipg" className="cta-button">Research Summary</Link>
           </div>
         </div>
       </section>

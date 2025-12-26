@@ -3,7 +3,7 @@ import './globals.css'
 import Script from 'next/script'
 
 export const metadata: Metadata = {
-  title: 'Jason Jarmacz | NeuroProgressive AI Evolution Strategist',
+  title: 'Jason Jarmacz | NeuroDivergent AI Evolution Strategist',
   description: 'Pioneering Human-as-the-Loop AI systems, strategic innovation consulting, and transformative solutions across healthcare, infrastructure, and enterprise intelligence.',
 }
 
