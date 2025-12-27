@@ -1,5 +1,5 @@
 # jarmacz.com .htaccess Configuration
-# Apache Server Configuration for NeuroProgressive AI Website
+# Apache Server Configuration for NeuroDivergent AI Website
 
 # ========================================
 # FORCE HTTPS
@@ -90,7 +90,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
 
 # Redirect /frameworks/* to framework pages
-RewriteRule ^frameworks/neuroprogressive$ /frameworks/neuroprogressive.html [L]
+RewriteRule ^frameworks/neurodivergent$ /frameworks/neurodivergent.html [L]
 RewriteRule ^frameworks/synthetic$ /frameworks/synthetic.html [L]
 RewriteRule ^frameworks/shared-autonomy$ /frameworks/shared-autonomy.html [L]
 RewriteRule ^frameworks/strategy$ /frameworks/strategy.html [L]

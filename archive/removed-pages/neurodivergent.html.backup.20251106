@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NeuroProgressive AI Platform | Jason Jarmacz</title>
+    <title>NeuroDivergent AI Platform | Jason Jarmacz</title>
     <meta name="description" content="Revolutionary Human-as-the-Loop brain-computer interface integrating non-invasive BCIs, deep learning, and focused ultrasound neuromodulation for restoring communication and augmenting human potential.">
     
     <!-- MathJax for equation rendering -->
@@ -12,7 +12,7 @@
     
     <link rel="stylesheet" href="styles/main.css">
     <link rel="stylesheet" href="styles/utilities.css">
-    <link rel="stylesheet" href="styles/neuroprogressive.css">
+    <link rel="stylesheet" href="styles/neurodivergent.css">
 </head>
 <body>
     <!-- Navigation -->
@@ -33,7 +33,7 @@
 
     <!-- Hero Section -->
     <section class="hero">
-        <h1>NeuroProgressive AI Platform</h1>
+        <h1>NeuroDivergent AI Platform</h1>
         <p class="hero-subtitle">Revolutionary Human-as-the-Loop Brain-Computer Interface: Restoring Communication for Paralyzed Patients While Pioneering Ethical AI-Human Symbiosis</p>
         
         <div class="tag-group">
@@ -44,7 +44,7 @@
             <span class="tag">Human-as-the-Loop</span>
         </div>
         <div class="cta-group">
-            <a class="btn btn-primary" href="docs/NeuroProgressive_AI.pdf" download>Download Full NeuroProgressive Dossier</a>
+            <a class="btn btn-primary" href="docs/NeuroDivergent_AI.pdf" download>Download Full NeuroDivergent Dossier</a>
         </div>
     </section>
 
@@ -52,7 +52,7 @@
     <section>
         <h2>Strategic Vision: Augmenting Human Potential</h2>
         
-        <p>NeuroProgressive AI represents a fundamental convergence of neuroscience, artificial intelligence, and ethical engineering. Our mission is to engineer and deploy <strong>trustworthy, explainable, and commercially viable Neuro-AI systems</strong> that restore functional independence and enhance human communication with dignity.</p>
+        <p>NeuroDivergent AI represents a fundamental convergence of neuroscience, artificial intelligence, and ethical engineering. Our mission is to engineer and deploy <strong>trustworthy, explainable, and commercially viable Neuro-AI systems</strong> that restore functional independence and enhance human communication with dignity.</p>
 
         <div class="highlight-box success">
             <h4>Core Operating Philosophy: Human-as-the-Loop</h4>
@@ -409,17 +409,17 @@
 
     <!-- Call to Action -->
     <section class="u-tex-center-bac-linear-g-pad-4rem-2-bor">
-        <h2>Join the NeuroProgressive Revolution</h2>
+        <h2>Join the NeuroDivergent Revolution</h2>
         <p class="u-fon-1-2rem-max-mar-0-auto">Whether you're pioneering clinical implementations, seeking strategic partnerships, or exploring investment opportunities in ethical AI-human symbiosis—let's make history together.</p>
         
         <div class="u-dis-flex-gap-jus-fle-2">
-            <a href="mailto:jayjarmacz@gmail.com?subject=NeuroProgressive%20AI%20Partnership%20Inquiry" class="cta-button">Partner With Us</a>
+            <a href="mailto:jayjarmacz@gmail.com?subject=NeuroDivergent%20AI%20Partnership%20Inquiry" class="cta-button">Partner With Us</a>
             <a class="u-bac-rgba-255-2 cta-button" href="index.html#contact" >Schedule Consultation</a>
         </div>
     </section>
 
     <footer class="u-tex-center-pad-2rem-col-gray-bor-mar-4rem">
-        <p>&copy; 2025 Jason Jarmacz | NeuroProgressive AI Evolution Strategist</p>
+        <p>&copy; 2025 Jason Jarmacz | NeuroDivergent AI Evolution Strategist</p>
         <p class="u-fon-0-9rem-mar-0-5rem">
             <a class="u-col-primary-tex" href="mailto:jayjarmacz@gmail.com">jayjarmacz@gmail.com</a> | 
             (917) 566-8112 | 

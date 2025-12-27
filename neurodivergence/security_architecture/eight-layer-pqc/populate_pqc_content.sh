@@ -101,7 +101,7 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for complete technical specification incl
 
 ## Contact
 
-**Jason Jarmacz** - NeuroProgressive AI Evolution Strategist  
+**Jason Jarmacz** - NeuroDivergent AI Evolution Strategist  
 Trade Momentum LLC | Neurodivergence.Works R&D Division  
 Email: jason@neurodivergence.works
 

@@ -40,7 +40,7 @@ DOCUMENT AUTHORING SERVICES:
 │                                                                         │
 │ • Technical Whitepapers & Research............... $8K - $25K            │
 │   └─ Peer-review ready, regulatory compliance                          │
-│   └─ Example: NeuroProgressive AI 60-page framework                    │
+│   └─ Example: NeuroDivergent AI 60-page framework                    │
 │                                                                         │
 │ • Strategic Charters & Corporate Docs............ $5K - $35K            │
 │   └─ Board presentations, OKR/KPI frameworks                            │
@@ -80,7 +80,7 @@ ENGAGEMENT MODELS:
 📊 FRAMEWORK COMPLEXITY SHOWCASED
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-1. NEUROPROGRESSIVE AI
+1. NEURODIVERGENT AI
    ├─ 80 words/min thought-to-speech translation
    ├─ FDA-compliant neuromodulation therapies
    ├─ Human-as-the-Loop with 87% risk reduction
@@ -176,7 +176,7 @@ Repository: /mnt/project/.git
 
 COMMITS:
   2663727 - Add comprehensive services page with document authoring and LLM training offerings
-  62ec5f2 - Initial commit: NeuroProgressive AI Evolution Strategist website
+  62ec5f2 - Initial commit: NeuroDivergent AI Evolution Strategist website
 
 FILES TRACKED: 17
 TOTAL SIZE: ~12MB (including PDFs)
