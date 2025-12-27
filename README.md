@@ -1,4 +1,4 @@
-# jarmacz.com - NeuroProgressive AI Evolution Strategist
+# jarmacz.com - NeuroDivergent AI Evolution Strategist
 
 <div align="center">
 
@@ -28,7 +28,7 @@ This repository contains the complete website and backend infrastructure for **J
 
 ### Core Focus Areas
 
-1. **Neuroprogressive AI** - Adaptive systems evolving through human feedback loops
+1. **NeuroDivergent AI** - Adaptive systems evolving through human feedback loops
 2. **Synthetic Intelligence** - Purpose-built cognitive architectures for domain mastery
 3. **Shared Autonomy** - Collaborative decision-making between humans and AI
 4. **Transformative Strategy** - Novel methodologies pioneering unexplored solution spaces
@@ -150,7 +150,7 @@ jarmacz.com/
 │   └── requirements.txt      # Backend dependencies
 │
 ├── frameworks/
-│   ├── neuroprogressive.html
+│   ├── neurodivergent.html
 │   ├── synthetic.html
 │   ├── shared-autonomy.html
 │   └── strategy.html
@@ -175,7 +175,7 @@ jarmacz.com/
 
 ## Frameworks
 
-### 1. Neuroprogressive AI
+### 1. NeuroDivergent AI
 
 **Concept:** Systems that continuously evolve through bidirectional learning between AI and human operators.
 
@@ -538,11 +538,11 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for comprehensive deployment instructions inc
 **Focus:** Enterprise hosting infrastructure with AI-powered optimization
 
 ### 2. Secured Solutions LLC
-**Role:** Creative Services Director  
+**Role:** Real Estate Investment Analyst  
 **Focus:** Sustainable real estate optimization using renewable energy
 
 ### 3. Trade Momentum LLC
-**Role:** Fintech Director  
+**Role:** Evolution Strategist  
 **Focus:** SEC-compliant investment platforms with ML optimization
 
 ### 4. Omni Unum Co
@@ -554,9 +554,9 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for comprehensive deployment instructions inc
 ## Contact
 
 **Jason Jarmacz**  
-NeuroProgressive AI Evolution Strategist
+NeuroDivergent AI Evolution Strategist
 
-- **Email:** jayjarmacz@gmail.com
+- **Email:** jason@jarmacz.com
 - **Phone:** (917) 566-8112
 - **LinkedIn:** [linkedin.com/in/omniunum](https://linkedin.com/in/omniunum)
 - **Location:** New York, NY
@@ -640,7 +640,7 @@ This is proprietary software. Unauthorized copying, distribution, or modificatio
 
 For technical support or inquiries:
 
-1. **Email:** jayjarmacz@gmail.com
+1. **Email:** jason@jarmacz.com
 2. **Documentation:** See [DEPLOYMENT.md](DEPLOYMENT.md)
 3. **Issue Tracking:** Contact via email
 
