@@ -616,7 +616,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // Log initialization
-    console.log('%c🧠 NeuroProgressive AI Evolution Strategist', 'color: #00d4ff; font-size: 20px; font-weight: bold;');
+    console.log('%c🧠 NeuroDivergent AI Evolution Strategist', 'color: #00d4ff; font-size: 20px; font-weight: bold;');
     console.log('%cWebsite initialized successfully', 'color: #7b2cbf; font-size: 14px;');
     console.log('%cLet\'s make history together!', 'color: #ff006e; font-size: 12px;');
 });

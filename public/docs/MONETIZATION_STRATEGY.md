@@ -12,7 +12,7 @@ Your enhanced jarmacz.com platform now showcases five groundbreaking projects wo
 
 **Five Transformative Projects Now Featured:**
 
-1. **NeuroProgressive AI Platform** - Human-as-the-Loop brain-computer interfaces with 87% risk reduction and 80 words/min speech synthesis capability
+1. **NeuroDivergent AI Platform** - Human-as-the-Loop brain-computer interfaces with 87% risk reduction and 80 words/min speech synthesis capability
 
 2. **Integrated Health Empowerment Program (IHEP)** - NIST AI RMF compliant HIV treatment framework with Zero Trust architecture and digital twin patient modeling
 
@@ -282,7 +282,7 @@ Every project features rigorous mathematical foundations:
 ### Website Enhancements (Next Phase)
 
 1. **Individual Project Showcase Pages:**
-   - NeuroProgressive AI: Technical deep-dive with BCI architecture diagrams
+   - NeuroDivergent AI: Technical deep-dive with BCI architecture diagrams
    - IHEP: Healthcare AI framework with digital twin explainer
    - Mission Valley: Full financial model with interactive ROI calculator
    - JESS: Security architecture whitepaper with NIST mapping
@@ -438,7 +438,7 @@ The math works. The differentiation is clear. The portfolio is compelling. Now w
 For questions about implementation or to discuss further enhancements:
 
 **Jason Jarmacz**  
-Email: jayjarmacz@gmail.com  
+Email: jason@jarmacz.com  
 Phone: (917) 566-8112  
 LinkedIn: linkedin.com/in/omniunum
 

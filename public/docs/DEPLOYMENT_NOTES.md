@@ -10,7 +10,7 @@ Successfully integrated all five groundbreaking frameworks with premium service 
 
 ### **Five Category-Defining Frameworks**
 
-1. **NeuroProgressive AI Platform**
+1. **NeuroDivergent AI Platform**
    - Human-as-the-Loop brain-computer interface
    - 80 words/min thought-to-speech translation
    - FDA-compliant neuromodulation
@@ -164,16 +164,16 @@ git push -u origin main
 ├── frameworks.html                         # Framework overview
 ├── ihep-framework.html                     # IHEP details
 ├── mission-valley-framework.html           # Mission Valley analysis
-├── neuroprogressive-ai-project.html        # NeuroProgressive AI details
+├── neurodivergent-ai-project.html        # NeuroDivergent AI details
 ├── mathematical-frameworks.html            # Math foundations
 ├── PROJECT_SUMMARY.md                      # Technical documentation
-├── NeuroProgressive_AI.pdf                 # Full technical proposal
+├── NeuroDivergent_AI.pdf                 # Full technical proposal
 ├── IHEP_Executive_Summary.pdf              # HIV care framework
 ├── JESS__Executive_Summary.pdf             # Cybersecurity pipeline
 ├── SBIRNovelInnovationProposal.pdf         # DIPG therapeutics
 ├── Mission_Valley_Property_Acquisition... # Real estate analysis
-├── NeuroProgressive_AI_Evolution_Strategist__Resume_2.pdf
-├── NeuroProgressive_AI_Evolution_Strategist__Cover_Letter.pdf
+├── NeuroDivergent_AI_Evolution_Strategist__Resume_2.pdf
+├── NeuroDivergent_AI_Evolution_Strategist__Cover_Letter.pdf
 └── Create_a_plan_for_an_application_development_work___.pdf
 ```
 
@@ -193,7 +193,7 @@ git push -u origin main
 - Investors: Financial projections & equity multiples
 
 ### Category-Defining Positioning
-- "NeuroProgressive AI Evolution Strategist" (not generic consultant)
+- "NeuroDivergent AI Evolution Strategist" (not generic consultant)
 - "Human-as-the-Loop" (proprietary methodology)
 - "Constitutional AI Training" (novel approach)
 - Premium pricing reflecting transformative value
@@ -228,7 +228,7 @@ git push -u origin main
 ## 📞 Support & Contact
 
 **Jason Jarmacz**  
-📧 jayjarmacz@gmail.com  
+📧 jason@jarmacz.com  
 📱 (917) 566-8112  
 💼 [linkedin.com/in/omniunum](https://linkedin.com/in/omniunum)
 

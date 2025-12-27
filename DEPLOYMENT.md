@@ -1,6 +1,6 @@
 # jarmacz.com Deployment Guide
 
-## NeuroProgressive AI Evolution Strategist Website
+## NeuroDivergent AI Evolution Strategist Website
 **Technical Deployment & Operations Documentation**
 
 ---
@@ -122,7 +122,7 @@ Via cPanel File Manager or SSH:
 ├── api/
 │   └── app.py
 ├── frameworks/
-│   ├── neuroprogressive.html
+│   ├── neurodivergent.html
 │   ├── synthetic.html
 │   ├── shared-autonomy.html
 │   └── strategy.html
@@ -334,9 +334,9 @@ SECRET_KEY=[generate-random-secret-key]
 # SMTP Configuration
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
-SMTP_USERNAME=jayjarmacz@gmail.com
+SMTP_USERNAME=jason@jarmacz.com
 SMTP_PASSWORD=[your-app-specific-password]
-RECIPIENT_EMAIL=jayjarmacz@gmail.com
+RECIPIENT_EMAIL=jason@jarmacz.com
 
 # Server Configuration
 PORT=5000
@@ -551,8 +551,8 @@ Test on:
 ```
 Monitor Type: HTTP(s)
 URL: https://jarmacz.com
-Keyword: NeuroProgressive
-Alert Contacts: jayjarmacz@gmail.com
+Keyword: NeuroDivergent
+Alert Contacts: jason@jarmacz.com
 ```
 
 ### Server Monitoring
@@ -758,7 +758,7 @@ sudo systemctl reload apache2
 
 **Developer:**
 - Jason Jarmacz
-- Email: jayjarmacz@gmail.com
+- Email: jason@jarmacz.com
 - Phone: (917) 566-8112
 
 ---
@@ -783,4 +783,4 @@ sudo systemctl reload apache2
 
 **End of Deployment Guide**
 
-For questions or issues, contact Jason Jarmacz at jayjarmacz@gmail.com
+For questions or issues, contact Jason Jarmacz at jason@jarmacz.com

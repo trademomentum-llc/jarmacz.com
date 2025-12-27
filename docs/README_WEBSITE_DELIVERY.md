@@ -2,7 +2,7 @@
 
 ## Overview
 
-This enhanced website package integrates comprehensive content from your portfolio documents, adds professional navigation, creates detailed project pages with mathematical rigor, and positions your services offerings prominently. The result is a complete digital presence for Jason Jarmacz as a NeuroProgressive AI Evolution Strategist.
+This enhanced website package integrates comprehensive content from your portfolio documents, adds professional navigation, creates detailed project pages with mathematical rigor, and positions your services offerings prominently. The result is a complete digital presence for Jason Jarmacz as a NeuroDivergent AI Evolution Strategist.
 
 ## What's Included
 
@@ -26,7 +26,7 @@ This enhanced website package integrates comprehensive content from your portfol
 
 ### Detailed Project Pages
 
-3. **neuroprogressive-ai.html** - NeuroProgressive AI Platform Deep Dive
+3. **neurodivergent-ai.html** - NeuroDivergent AI Platform Deep Dive
    - **48KB comprehensive technical documentation**
    - Mathematical foundations with LaTeX rendering:
      - Human-as-the-Loop (HatL) objective function
@@ -60,7 +60,7 @@ This enhanced website package integrates comprehensive content from your portfol
 ```
 Home (index_enhanced.html)
 ├── Projects Overview (projects_portfolio.html)
-│   ├── NeuroProgressive AI → neuroprogressive-ai.html
+│   ├── NeuroDivergent AI → neurodivergent-ai.html
 │   ├── IHEP → ihep.html
 │   ├── Mission Valley (linked to contact)
 │   ├── JESS (linked to contact)
@@ -125,7 +125,7 @@ Three-tier service structure prominently featured:
 
 Every project includes measurable outcomes:
 
-**NeuroProgressive AI:**
+**NeuroDivergent AI:**
 - 80 words/minute synthesized speech
 - 87% AI alignment risk reduction
 - 40% capital savings vs. traditional development
@@ -147,7 +147,7 @@ Every project includes measurable outcomes:
 
 Comprehensive coverage of relevant standards:
 
-**NeuroProgressive AI:**
+**NeuroDivergent AI:**
 - FDA Class III medical device pathways
 - HIPAA Privacy & Security Rules
 - IRB human subjects research protocols
@@ -172,7 +172,7 @@ Comprehensive coverage of relevant standards:
 /mnt/user-data/outputs/
 ├── index_enhanced.html          [Main homepage with navigation - 38KB]
 ├── projects_portfolio.html       [Projects overview hub - 27KB]
-├── neuroprogressive-ai.html     [Detailed BCI platform page - 48KB]
+├── neurodivergent-ai.html     [Detailed BCI platform page - 48KB]
 ├── ihep.html                    [Detailed HIV care framework - 48KB]
 ├── README_WEBSITE_DELIVERY.md   [This file]
 └── [legacy files from original build]
@@ -192,7 +192,7 @@ Comprehensive coverage of relevant standards:
    ```
    index_enhanced.html → rename to index.html
    projects_portfolio.html
-   neuroprogressive-ai.html
+   neurodivergent-ai.html
    ihep.html
    ```
 
@@ -267,7 +267,7 @@ Enable SSL/TLS:
 - **Certifications:** Highlighted in credentials section
 - **Published Articles:** Featured in research section
 
-### From NeuroProgressive AI Document (37 pages)
+### From NeuroDivergent AI Document (37 pages)
 - **Concept & Feasibility:** Complete technical overview
 - **Strategic Plan:** Human-as-the-Loop integration framework
 - **Symbiotic Learning:** Enterprise knowledge architecture
@@ -452,7 +452,7 @@ Enable SSL/TLS:
 ### Contact for Technical Questions
 - **Developer:** Claude AI (via Anthropic)
 - **Client:** Jason Jarmacz
-  - Email: jayjarmacz@gmail.com
+  - Email: jason@jarmacz.com
   - Phone: (917) 566-8112
   - LinkedIn: linkedin.com/in/omniunum
 
@@ -461,7 +461,7 @@ Enable SSL/TLS:
 ### Version 2.0 (Current Delivery)
 - ✅ Added fixed navigation bar with mobile responsiveness
 - ✅ Created comprehensive projects portfolio overview page
-- ✅ Built detailed NeuroProgressive AI technical deep dive (48KB)
+- ✅ Built detailed NeuroDivergent AI technical deep dive (48KB)
 - ✅ Built detailed IHEP framework documentation (48KB)
 - ✅ Integrated mathematical frameworks with LaTeX rendering
 - ✅ Added multi-stakeholder translations throughout

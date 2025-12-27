@@ -20,7 +20,7 @@
 
 ## Overview
 
-This repository contains the complete website and backend infrastructure for **Jason Jarmacz**, a NeuroProgressive AI Evolution Strategist specializing in human-as-the-loop frameworks, synthetic intelligence architecture, and transformative AI strategies.
+This repository contains the complete website and backend infrastructure for **Jason Jarmacz**, a NeuroDivergent AI Evolution Strategist specializing in human-as-the-loop frameworks, synthetic intelligence architecture, and transformative AI strategies.
 
 ### Mission Statement
 

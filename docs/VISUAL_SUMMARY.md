@@ -41,7 +41,7 @@
 
 ```
 ┌─────────────────────────┬─────────────────────────┬─────────────────────────┐
-│  🧠 NeuroProgressive AI  │  🏥 IHEP HIV Care       │  🏗️ Mission Valley      │
+│  🧠 NeuroDivergent AI  │  🏥 IHEP HIV Care       │  🏗️ Mission Valley      │
 │  150+ Pages              │  Executive Brief        │  $215M Analysis         │
 │  ─────────────────────   │  ─────────────────────  │  ─────────────────────  │
 │  LaTeX Equations  ✓      │  NIST Compliant  ✓      │  18-25% IRR  ✓          │
@@ -128,7 +128,7 @@ Body Text: 1rem (16px) - Line height 1.6
 ```
 "Combined Portfolio Value: $867M+ in Strategic Frameworks"
     ↓
-[Download 7MB NeuroProgressive AI framework RIGHT NOW]
+[Download 7MB NeuroDivergent AI framework RIGHT NOW]
     ↓
 [Review $215M acquisition analysis IMMEDIATELY]
     ↓
@@ -138,7 +138,7 @@ Body Text: 1rem (16px) - Line height 1.6
 ### Multi-Stakeholder Translation in Each Document
 
 ```
-Document: NeuroProgressive AI Framework
+Document: NeuroDivergent AI Framework
 ├─ C-Suite:      "87% AI alignment risk reduction"
 ├─ Engineering:  "Modular real-time intervention architecture"
 ├─ Operations:   "99.7% uptime with human veto authority"
@@ -157,7 +157,7 @@ Document: Mission Valley Acquisition
 
 | Framework | Stated Value | Validation Method |
 |-----------|--------------|-------------------|
-| NeuroProgressive AI | $400M potential | Market analysis: BCI market $3.7B by 2027, 20% share = $740M |
+| NeuroDivergent AI | $400M potential | Market analysis: BCI market $3.7B by 2027, 20% share = $740M |
 | IHEP | $50M program | 350 patients × $40K/year × 3.5 years = $49M |
 | Mission Valley | $215M asset | Professional appraisal + financial modeling |
 | JESS | $100M market | First responder IoT market + building automation |
@@ -168,7 +168,7 @@ Document: Mission Valley Acquisition
 
 ```
                  FDA   HIPAA  NIST   CJIS   ISO    CEQA
-NeuroProgressive  ✓     ✓      ✓      -      ✓      -
+NeuroDivergent  ✓     ✓      ✓      -      ✓      -
 IHEP              ✓     ✓      ✓      -      -      -
 Mission Valley    -     -      -      -      -      ✓
 JESS              -     -      ✓      ✓      -      -
@@ -178,7 +178,7 @@ DIPG              ✓     -      ✓      -      ✓      -
 ### Mathematical Rigor
 
 Each framework includes validated equations:
-- **NeuroProgressive AI**: 12 core equations, 47 mathematical expressions
+- **NeuroDivergent AI**: 12 core equations, 47 mathematical expressions
 - **IHEP**: 8 optimization algorithms, 23 statistical models
 - **Mission Valley**: 156 financial calculations, Monte Carlo simulations
 - **JESS**: 19 cryptographic protocols, 31 security constraints
@@ -194,7 +194,7 @@ Each framework includes validated equations:
 - "AI consultant"
 
 **Your Positioning**:
-- "NeuroProgressive AI Evolution Strategist"
+- "NeuroDivergent AI Evolution Strategist"
 - "Constitutional AI Architect"
 - "Strategic Innovation Synthesist"
 
@@ -238,14 +238,14 @@ jarmacz-website/
 ├── ihep-framework.html (40 KB)
 ├── mathematical-frameworks.html (21 KB)
 ├── mission-valley-framework.html (57 KB)
-├── neuroprogressive-ai-project.html (23 KB)
-├── NeuroProgressive_AI.pdf (7.1 MB)
+├── neurodivergent-ai-project.html (23 KB)
+├── NeuroDivergent_AI.pdf (7.1 MB)
 ├── IHEP_Executive_Summary.pdf (443 KB)
 ├── Mission_Valley_Property_Acquisition_Strategic_Potentials_and_Analysis.pdf (1.4 MB)
 ├── JESS__Executive_Summary.pdf (320 KB)
 ├── SBIRNovelInnovationProposal.pdf (1.0 MB)
-├── NeuroProgressive_AI_Evolution_Strategist__Resume_2.pdf (349 KB)
-├── NeuroProgressive_AI_Evolution_Strategist__Cover_Letter.pdf (98 KB)
+├── NeuroDivergent_AI_Evolution_Strategist__Resume_2.pdf (349 KB)
+├── NeuroDivergent_AI_Evolution_Strategist__Cover_Letter.pdf (98 KB)
 ├── Create_a_plan_for_an_application_development_work___.pdf (624 KB)
 ├── 1000002043.jpg (53 KB)
 └── DEPLOYMENT_GUIDE.md              ← Full deployment instructions
@@ -295,13 +295,13 @@ After deployment, verify:
 - [ ] **Mathematical equations render**: MathJax displays LaTeX correctly
 - [ ] **Mobile responsive**: Test on phone/tablet
 - [ ] **No console errors**: Check browser developer tools
-- [ ] **All PDFs accessible**: Direct URL test (e.g., jarmacz.com/NeuroProgressive_AI.pdf)
+- [ ] **All PDFs accessible**: Direct URL test (e.g., jarmacz.com/NeuroDivergent_AI.pdf)
 
 ## 📊 Expected Outcomes
 
 ### Lead Quality Improvement
 **Before**: "I need a business plan" (generic inquiry)
-**After**: "I downloaded your 150-page NeuroProgressive AI framework and want something similar for our BCI startup" (qualified lead)
+**After**: "I downloaded your 150-page NeuroDivergent AI framework and want something similar for our BCI startup" (qualified lead)
 
 ### Conversion Rate Increase
 ```

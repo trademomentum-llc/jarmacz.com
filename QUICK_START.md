@@ -85,9 +85,9 @@ FLASK_ENV=production
 SECRET_KEY=$(python3 -c "import secrets; print(secrets.token_hex(32))")
 SMTP_SERVER=smtp.gmail.com
 SMTP_PORT=587
-SMTP_USERNAME=jayjarmacz@gmail.com
+SMTP_USERNAME=jason@jarmacz.com
 SMTP_PASSWORD=your-gmail-app-password-here
-RECIPIENT_EMAIL=jayjarmacz@gmail.com
+RECIPIENT_EMAIL=jason@jarmacz.com
 PORT=5000
 DEBUG=False
 EOF
@@ -208,7 +208,7 @@ curl https://jarmacz.com/api/metrics
 1. **UptimeRobot** (free)
    - Sign up at [uptimerobot.com](https://uptimerobot.com)
    - Add monitor for `https://jarmacz.com`
-   - Email alerts to: jayjarmacz@gmail.com
+   - Email alerts to: jason@jarmacz.com
 
 2. **Google Analytics** (optional)
    - Create property at [analytics.google.com](https://analytics.google.com)
@@ -270,8 +270,8 @@ python3 << EOF
 import smtplib
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
-server.login('jayjarmacz@gmail.com', 'your-app-password')
-server.sendmail('jayjarmacz@gmail.com', 'jayjarmacz@gmail.com', 'Test')
+server.login('jason@jarmacz.com', 'your-app-password')
+server.sendmail('jason@jarmacz.com', 'jason@jarmacz.com', 'Test')
 server.quit()
 print("Email sent!")
 EOF
@@ -352,7 +352,7 @@ After completing all steps, verify:
    - Overview: [PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)
 
 2. **Support:**
-   - Email: jayjarmacz@gmail.com
+   - Email: jason@jarmacz.com
    - Phone: (917) 566-8112
 
 3. **Common Issues:**
@@ -388,7 +388,7 @@ After completing all steps, verify:
 
 ## 🎉 Congratulations!
 
-Your NeuroProgressive AI Evolution Strategist website is now live!
+Your NeuroDivergent AI Evolution Strategist website is now live!
 
 **URL:** https://jarmacz.com  
 **Status:** Production-ready  

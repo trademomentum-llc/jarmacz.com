@@ -10,7 +10,7 @@
 
 ### Content Mistakes
 - Put pricing front and center on homepage (thirsty virgin approach)
-- Changed title to "NeuroProgressive AI Evolution Strategist" 
+- Changed title to "NeuroDivergent AI Evolution Strategist" 
 - Used gmail address instead of jason@jarmacz.com
 - Too aggressive with CTAs and sales messaging
 
@@ -50,7 +50,7 @@
 
 ### Content Corrections
 - **Title:** "Evolution Strategist" (not combined title)
-- **Subtitle:** "Conceptualizer of NeuroProgressive AI"
+- **Subtitle:** "Conceptualizer of NeuroDivergent AI"
 - **Email:** jason@jarmacz.com
 - **Tagline:** "Architecting Human-as-the-Loop Frameworks for Shared Autonomy"
 
@@ -106,7 +106,7 @@ VISITOR LANDS â†’ Mystery & Intrigue (Hero)
 
 2. **Aesthetic consistency** - When you have a working aesthetic (cyan/purple/pink gradients), don't throw it away for "flat modern" design. The original had personality.
 
-3. **Title accuracy** - You're an "Evolution Strategist" who "conceptualized NeuroProgressive AI" - not a combined role. Words matter.
+3. **Title accuracy** - You're an "Evolution Strategist" who "conceptualized NeuroDivergent AI" - not a combined role. Words matter.
 
 4. **Email professionalism** - jason@jarmacz.com makes sense for jarmacz.com. Gmail looks amateur.
 

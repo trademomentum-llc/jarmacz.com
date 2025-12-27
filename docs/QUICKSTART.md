@@ -5,7 +5,7 @@
 **4 core web pages ready to deploy:**
 1. `index_enhanced.html` - Homepage with navigation ✅
 2. `projects_portfolio.html` - All projects overview ✅  
-3. `neuroprogressive-ai.html` - Full technical deep dive ✅
+3. `neurodivergent-ai.html` - Full technical deep dive ✅
 4. `ihep.html` - HIV care framework details ✅
 
 **Plus this comprehensive documentation.**
@@ -17,7 +17,7 @@
 Upload to your web hosting:
 ├── index_enhanced.html → rename to index.html
 ├── projects_portfolio.html
-├── neuroprogressive-ai.html
+├── neurodivergent-ai.html
 └── ihep.html
 ```
 
@@ -85,7 +85,7 @@ Three-tier structure with clear pricing:
 - **Multi-stakeholder translations** (C/Eng/Ops)
 - **Links to detailed pages** for full deep dives
 
-### neuroprogressive-ai.html (BCI Platform Detail)
+### neurodivergent-ai.html (BCI Platform Detail)
 **48KB of technical content:**
 - Complete mathematical foundations
 - Technology stack breakdown
@@ -127,7 +127,7 @@ Edit in `<style>` section:
 ### Update Contact Info
 Find in homepage:
 ```html
-<a href="mailto:jayjarmacz@gmail.com">
+<a href="mailto:jason@jarmacz.com">
 <a href="tel:+19175668112">
 <a href="https://linkedin.com/in/omniunum">
 ```
@@ -182,7 +182,7 @@ These are from original build (superseded):
 
 **Contact:**  
 Jason Jarmacz  
-📧 jayjarmacz@gmail.com  
+📧 jason@jarmacz.com  
 📱 (917) 566-8112
 
 ---
@@ -219,5 +219,5 @@ Your website now:
 - [Full README →](README_WEBSITE_DELIVERY.md)
 - [View Homepage →](index_enhanced.html)
 - [View Projects →](projects_portfolio.html)
-- [NeuroProgressive AI →](neuroprogressive-ai.html)
+- [NeuroDivergent AI →](neurodivergent-ai.html)
 - [IHEP Framework →](ihep.html)

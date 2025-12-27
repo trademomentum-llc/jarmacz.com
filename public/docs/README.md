@@ -16,19 +16,19 @@ This directory contains your complete enhanced website with integrated portfolio
 ✓ frameworks.html                   (17KB - unchanged)
 ✓ ihep-framework.html              (40KB - unchanged)
 ✓ mission-valley-framework.html    (57KB - unchanged)
-✓ neuroprogressive-ai-project.html (23KB - unchanged)
+✓ neurodivergent-ai-project.html (23KB - unchanged)
 ✓ mathematical-frameworks.html     (21KB - unchanged)
 ```
 
 ### Portfolio Documents (PDF)
 ```
-✓ NeuroProgressive_AI.pdf                                    (7.1MB)
+✓ NeuroDivergent_AI.pdf                                    (7.1MB)
 ✓ Mission_Valley_Property_Acquisition_....pdf               (1.4MB)
 ✓ IHEP_Executive_Summary.pdf                                (443KB)
 ✓ JESS__Executive_Summary.pdf                               (320KB)
 ✓ SBIRNovelInnovationProposal.pdf                          (1.0MB)
-✓ NeuroProgressive_AI_Evolution_Strategist__Resume_2.pdf   (349KB)
-✓ NeuroProgressive_AI_Evolution_Strategist__Cover_Letter.pdf (98KB)
+✓ NeuroDivergent_AI_Evolution_Strategist__Resume_2.pdf   (349KB)
+✓ NeuroDivergent_AI_Evolution_Strategist__Cover_Letter.pdf (98KB)
 ✓ Create_a_plan_for_an_application_development_work___.pdf (624KB)
 ```
 
@@ -253,7 +253,7 @@ After deployment, verify:
 
 ### Contact Information
 **Jason Jarmacz**  
-Email: jayjarmacz@gmail.com  
+Email: jason@jarmacz.com  
 Phone: (917) 566-8112  
 LinkedIn: linkedin.com/in/omniunum  
 Website: https://jarmacz.com
@@ -444,4 +444,4 @@ This enhanced website package represents a **comprehensive business platform** t
 For deployment instructions, see DEPLOYMENT_CHECKLIST.md  
 For visual comparisons, see VISUAL_ENHANCEMENT_GUIDE.md*
 
-**Questions?** Contact: jayjarmacz@gmail.com | (917) 566-8112
+**Questions?** Contact: jason@jarmacz.com | (917) 566-8112

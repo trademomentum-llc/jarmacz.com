@@ -28,7 +28,7 @@ This equation alone communicates sophistication that 99% of consultants cannot m
 
 **Content Architecture:**
 
-**Hero Section**: Immediately establishes your positioning with the glitch-effect title and three key metrics. The "glitch" animation (using CSS text-shadow manipulation) creates a cyberpunk, cutting-edge aesthetic that aligns with your NeuroProgressive AI brand.
+**Hero Section**: Immediately establishes your positioning with the glitch-effect title and three key metrics. The "glitch" animation (using CSS text-shadow manipulation) creates a cyberpunk, cutting-edge aesthetic that aligns with your NeuroDivergent AI brand.
 
 **Innovation Showcase**: Five project cards, each containing:
 - Industry tag (color-coded by domain)
@@ -266,7 +266,7 @@ You're demonstrating you can speak to every stakeholder in their language. This 
 The five projects aren't presented as "case studies" (which imply client work—potentially confidential). They're presented as your "Innovation Portfolio"—your original research and strategic development work. This framing allows you to showcase complexity and novelty without NDA constraints.
 
 And the projects demonstrate range:
-- **NeuroProgressive AI**: Deep technical (AI + neuroscience)
+- **NeuroDivergent AI**: Deep technical (AI + neuroscience)
 - **IHEP**: Healthcare transformation with regulatory compliance
 - **Mission Valley**: Financial structuring and real estate strategy
 - **JESS**: Cybersecurity architecture
@@ -346,7 +346,7 @@ Here's exactly what you should do in the next month to start generating revenue.
 ### Week 3: Content Creation
 - **Day 15-21**: Write cornerstone blog post: "The Mathematics of Human-as-the-Loop: How Constitutional AI Training Reduces Alignment Risk by 87%"
   - 2,000+ words
-  - Include LaTeX equations from your NeuroProgressive AI document
+  - Include LaTeX equations from your NeuroDivergent AI document
   - Publish on LinkedIn and your website
   - Share across your network
 
@@ -487,7 +487,7 @@ Here's your to-do list for the next 48 hours:
 4. Add Google Analytics if not already configured
 
 **Communication**:
-1. Email me any questions: jayjarmacz@gmail.com
+1. Email me any questions: jason@jarmacz.com
 2. Let me know when site is live so I can review
 3. Share your first closed client—I'm genuinely excited to see this work for you
 
@@ -518,7 +518,7 @@ Let's advance with strict moral compass, but let our discoveries define our ambi
 ## Contact
 
 **Jason Jarmacz**  
-Email: jayjarmacz@gmail.com  
+Email: jason@jarmacz.com  
 Phone: (917) 566-8112  
 LinkedIn: linkedin.com/in/omniunum
 

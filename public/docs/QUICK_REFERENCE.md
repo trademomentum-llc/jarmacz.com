@@ -16,7 +16,7 @@
 ### Key Files
 ```
 ✓ index.html (55 KB)                  ← Main page with new portfolio section
-✓ NeuroProgressive_AI.pdf (7.1 MB)    ← 150-page framework
+✓ NeuroDivergent_AI.pdf (7.1 MB)    ← 150-page framework
 ✓ Mission_Valley_*.pdf (1.4 MB)       ← $215M acquisition analysis
 ✓ IHEP_Executive_Summary.pdf (443 KB)
 ✓ JESS__Executive_Summary.pdf (320 KB)
@@ -63,8 +63,8 @@ Check:
 
 | Tier | Price | Portfolio Proof |
 |------|-------|----------------|
-| **Executive Documentation** | $5K - $25K | NeuroProgressive AI (150 pages), Mission Valley ($215M), DIPG SBIR |
-| **LLM Training & Sanitization** | $50K - $250K | NeuroProgressive AI (HatL framework), IHEP (Digital Twin) |
+| **Executive Documentation** | $5K - $25K | NeuroDivergent AI (150 pages), Mission Valley ($215M), DIPG SBIR |
+| **LLM Training & Sanitization** | $50K - $250K | NeuroDivergent AI (HatL framework), IHEP (Digital Twin) |
 | **Evolution Strategy Consulting** | $15K/mo | All frameworks demonstrate cross-domain expertise |
 
 ## 🎯 Key Differentiators
@@ -86,7 +86,7 @@ Check:
 ### Lead Quality Improvement
 ```
 Before: "I need a business plan" (generic)
-After:  "I downloaded your NeuroProgressive AI framework, 
+After:  "I downloaded your NeuroDivergent AI framework, 
          I want something like this for our startup" (qualified)
 ```
 
@@ -106,7 +106,7 @@ Reason: Self-qualification through PDF downloads
 - **Contact**: https://jarmacz.com#contact
 
 ### Direct PDF Links
-- https://jarmacz.com/NeuroProgressive_AI.pdf
+- https://jarmacz.com/NeuroDivergent_AI.pdf
 - https://jarmacz.com/IHEP_Executive_Summary.pdf
 - https://jarmacz.com/Mission_Valley_Property_Acquisition_Strategic_Potentials_and_Analysis.pdf
 - https://jarmacz.com/JESS__Executive_Summary.pdf
@@ -117,7 +117,7 @@ Reason: Self-qualification through PDF downloads
 **Issues during deployment?**
 - Check DEPLOYMENT_GUIDE.md for detailed instructions
 - Review VISUAL_SUMMARY.md for design specs
-- Contact: jayjarmacz@gmail.com
+- Contact: jason@jarmacz.com
 
 ## 🧠 Remember
 
@@ -151,7 +151,7 @@ Reason: Self-qualification through PDF downloads
 
 ```
 Downloads per Week:
-├─ NeuroProgressive AI: [____] (target: 5-10)
+├─ NeuroDivergent AI: [____] (target: 5-10)
 ├─ Mission Valley: [____] (target: 3-5)
 ├─ IHEP/JESS/DIPG: [____] (target: 2-3 each)
 └─ Total Downloads: [____] (target: 15-25)

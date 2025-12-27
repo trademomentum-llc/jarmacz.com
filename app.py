@@ -43,9 +43,9 @@ class Config:
     """Application configuration"""
     SMTP_SERVER = os.getenv('SMTP_SERVER', 'smtp.gmail.com')
     SMTP_PORT = int(os.getenv('SMTP_PORT', 587))
-    SMTP_USERNAME = os.getenv('SMTP_USERNAME', 'jayjarmacz@gmail.com')
+    SMTP_USERNAME = os.getenv('SMTP_USERNAME', 'jason@jarmacz.com')
     SMTP_PASSWORD = os.getenv('SMTP_PASSWORD', '')  # Set via environment variable
-    RECIPIENT_EMAIL = os.getenv('RECIPIENT_EMAIL', 'jayjarmacz@gmail.com')
+    RECIPIENT_EMAIL = os.getenv('RECIPIENT_EMAIL', 'jason@jarmacz.com')
     SECRET_KEY = os.getenv('SECRET_KEY', 'dev-secret-key-change-in-production')
 
 app.config.from_object(Config)
@@ -70,18 +70,19 @@ def validate_email(email: str) -> bool:
 def sanitize_input(text: str, max_length: int = 1000) -> str:
     """
     Sanitize user input to prevent XSS and injection attacks
-    
+
     Args:
         text: Input text to sanitize
         max_length: Maximum allowed length
-        
+
     Returns:
         str: Sanitized text
     """
-    # Remove any HTML tags
-    text = re.sub(r'<[^>]*>', '', text)
-    # Limit length
+    # Limit length first to prevent ReDoS attacks
     text = text[:max_length]
+    # Remove any HTML tags using html.escape instead of regex to avoid ReDoS
+    import html
+    text = html.escape(text)
     # Strip leading/trailing whitespace
     text = text.strip()
     return text

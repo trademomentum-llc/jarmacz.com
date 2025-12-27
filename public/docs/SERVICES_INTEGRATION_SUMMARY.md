@@ -2,7 +2,7 @@
 
 **Date:** November 6, 2025  
 **Developer:** Claude (Anthropic)  
-**Client:** Jason Jarmacz - NeuroProgressive AI Evolution Strategist  
+**Client:** Jason Jarmacz - NeuroDivergent AI Evolution Strategist  
 **Version:** 2.0.0
 
 ---
@@ -52,7 +52,7 @@ Successfully integrated comprehensive service offerings and authored framework d
    - Industry-specific regulatory compliance analysis
    - Multi-domain synthesis (AI, healthcare, infrastructure)
    - Citation management + academic formatting
-   - **Example:** NeuroProgressive AI Framework
+   - **Example:** NeuroDivergent AI Framework
      - 60-page technical specification
      - FDA compliance pathway mapping
      - Mathematical foundations + ethical governance
@@ -158,7 +158,7 @@ L_const = L_task + Σ γ_i · I[violation_i]
 
 ## FIVE FRAMEWORK CASE STUDIES
 
-### 1. NeuroProgressive AI Platform
+### 1. NeuroDivergent AI Platform
 **Neurotechnology × AI**
 
 **Incredible Complexity:**

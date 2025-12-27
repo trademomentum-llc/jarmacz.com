@@ -31,7 +31,7 @@ Successfully implemented **Option C** from our previous session: **Portfolio Doc
 
 | Document | Size | Value Proposition |
 |----------|------|-------------------|
-| **NeuroProgressive AI Framework** | 7.1 MB | 150+ pages of BCI architecture, FDA pathways, mathematical proofs, Python implementation |
+| **NeuroDivergent AI Framework** | 7.1 MB | 150+ pages of BCI architecture, FDA pathways, mathematical proofs, Python implementation |
 | **IHEP Executive Summary** | 443 KB | AI-driven HIV care with NIST compliance, HIPAA security, digital health twins |
 | **Mission Valley Acquisition** | 1.4 MB | $215M property analysis with 18-25% IRR, three acquisition pathways, 30-year projections |
 | **JESS Cybersecurity Summary** | 320 KB | Zero Trust architecture for WBAN/BACnet with NIST SP 800-207 and CJIS 6.0 compliance |
@@ -159,7 +159,7 @@ Not "AI services" → **Human-as-the-Loop constitutional AI training**
 - Financial Models & Projections
 - Pitch Decks & Presentations
 
-**Portfolio Proof**: NeuroProgressive AI (150+ pages), Mission Valley ($215M analysis), DIPG SBIR Proposal
+**Portfolio Proof**: NeuroDivergent AI (150+ pages), Mission Valley ($215M analysis), DIPG SBIR Proposal
 
 ### Service Tier 2: LLM Training & Sanitization
 **Price**: $50K - $250K per engagement
@@ -171,7 +171,7 @@ Not "AI services" → **Human-as-the-Loop constitutional AI training**
 - Data Sanitization Pipelines
 - NIST AI RMF Compliance
 
-**Portfolio Proof**: NeuroProgressive AI (Human-as-the-Loop framework), IHEP (Digital Health Twin architecture)
+**Portfolio Proof**: NeuroDivergent AI (Human-as-the-Loop framework), IHEP (Digital Health Twin architecture)
 
 ### Service Tier 3: Evolution Strategy Consulting
 **Price**: $15K/mo retainer (minimum 3 months)
@@ -212,7 +212,7 @@ Translation: Ethical constraints embedded directly into loss functions
 
 | Framework | Primary Regulations | Compliance Level |
 |-----------|---------------------|------------------|
-| NeuroProgressive AI | FDA 21 CFR Part 11, ISO 13485 | Pre-submission ready |
+| NeuroDivergent AI | FDA 21 CFR Part 11, ISO 13485 | Pre-submission ready |
 | IHEP | HIPAA, NIST AI RMF, FDA Digital Health | Fully compliant architecture |
 | Mission Valley | California Zoning, CEQA, Municipal Code | Comprehensive analysis |
 | JESS | NIST SP 800-207, CJIS 6.0, BACnet/SC | Zero Trust certified |
@@ -288,7 +288,7 @@ All sections are optimized for mobile devices:
 
 If you encounter any issues during deployment or need adjustments:
 - Message me in this chat
-- Email technical questions to jayjarmacz@gmail.com
+- Email technical questions to jason@jarmacz.com
 - For quick fixes, I can provide updated HTML snippets
 
 ---
@@ -298,7 +298,7 @@ If you encounter any issues during deployment or need adjustments:
 **You've now created a business website that doesn't just claim expertise—it proves it.**
 
 Every skeptical visitor can:
-1. Download your 150-page NeuroProgressive AI framework RIGHT NOW
+1. Download your 150-page NeuroDivergent AI framework RIGHT NOW
 2. Review your $215M real estate acquisition analysis IMMEDIATELY
 3. Read your NCI SBIR proposal with FDA pathways INSTANTLY
 
@@ -320,16 +320,16 @@ All files ready for deployment in `/mnt/user-data/outputs/`:
 - `ihep-framework.html` (40 KB) - IHEP detailed page
 - `mathematical-frameworks.html` (21 KB) - Math foundations page
 - `mission-valley-framework.html` (57 KB) - Mission Valley detailed page
-- `neuroprogressive-ai-project.html` (23 KB) - NeuroProgressive detailed page
+- `neurodivergent-ai-project.html` (23 KB) - NeuroDivergent detailed page
 
 ### PDF Documents (8 files)
-- `NeuroProgressive_AI.pdf` (7.1 MB)
+- `NeuroDivergent_AI.pdf` (7.1 MB)
 - `IHEP_Executive_Summary.pdf` (443 KB)
 - `Mission_Valley_Property_Acquisition_Strategic_Potentials_and_Analysis.pdf` (1.4 MB)
 - `JESS__Executive_Summary.pdf` (320 KB)
 - `SBIRNovelInnovationProposal.pdf` (1.0 MB)
-- `NeuroProgressive_AI_Evolution_Strategist__Resume_2.pdf` (349 KB)
-- `NeuroProgressive_AI_Evolution_Strategist__Cover_Letter.pdf` (98 KB)
+- `NeuroDivergent_AI_Evolution_Strategist__Resume_2.pdf` (349 KB)
+- `NeuroDivergent_AI_Evolution_Strategist__Cover_Letter.pdf` (98 KB)
 - `Create_a_plan_for_an_application_development_work___.pdf` (624 KB)
 
 ### Images

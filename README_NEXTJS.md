@@ -120,7 +120,7 @@ npm start
 
 ## Next Steps
 
-1. Migrate remaining pages (neuroprogressive-ai, ihep, jess, dipg, mission-valley)
+1. Migrate remaining pages (neurodivergent-ai, ihep, jess, dipg, mission-valley)
 2. Add API routes for contact form (if needed)
 3. Optimize images
 4. Add metadata for SEO
