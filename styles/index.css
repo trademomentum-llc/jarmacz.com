@@ -156,6 +156,14 @@
             width: 100%;
         }
 
+        /* Override for portfolio docs section - needs block layout not grid */
+        section.section-portfolio-docs {
+            display: block;
+            max-width: 100%;
+            justify-content: initial;
+            align-items: initial;
+        }
+
         h2 {
             font-size: 3rem;
             margin-bottom: 3rem;
