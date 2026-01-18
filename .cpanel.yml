@@ -13,17 +13,17 @@ deployment:
     # Static assets - create directories first
     - /bin/mkdir -p $DEPLOYPATH/js $DEPLOYPATH/styles $DEPLOYPATH/images $DEPLOYPATH/docs $DEPLOYPATH/public
 
-    # Copy JavaScript
-    - /bin/cp -R js/ $DEPLOYPATH/js/ 2>/dev/null || true
+    # Copy JavaScript (force overwrite)
+    - /bin/cp -Rf js/* $DEPLOYPATH/js/ 2>/dev/null || true
 
-    # Copy stylesheets
-    - /bin/cp -R styles/ $DEPLOYPATH/styles/ 2>/dev/null || true
+    # Copy stylesheets (force overwrite)
+    - /bin/cp -Rf styles/* $DEPLOYPATH/styles/ 2>/dev/null || true
 
-    # Copy images
-    - /bin/cp -R images/ $DEPLOYPATH/images/ 2>/dev/null || true
+    # Copy images (force overwrite)
+    - /bin/cp -Rf images/* $DEPLOYPATH/images/ 2>/dev/null || true
 
-    # Copy public assets (favicon, etc.)
-    - /bin/cp -R public/ $DEPLOYPATH/public/ 2>/dev/null || true
+    # Copy public assets (force overwrite)
+    - /bin/cp -Rf public/* $DEPLOYPATH/public/ 2>/dev/null || true
 
     # Copy only PDF documentation (exclude markdown files)
     - /bin/cp docs/*.pdf $DEPLOYPATH/docs/ 2>/dev/null || true
