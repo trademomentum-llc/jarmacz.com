@@ -169,13 +169,12 @@
         /* Innovation Showcase Grid */
         .innovation-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
             justify-content: center;
-            align-items: center;
             align-items: start;
             gap: 2rem;
             margin-top: 3rem;
-}
+        }
 
         .innovation-card {
             justify-content: center;
@@ -286,14 +285,14 @@
 
         /* Services Section */
         .services-grid {
-            grid-template-columns: repeat(auto-fit, minmax(768px, 1fr));
             display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
             justify-content: center;
             align-items: start;
             width: 100%;
             gap: 2rem;
             margin-top: 3rem;
-}
+        }
 
         .service-card {
             justify-content: center;
@@ -442,16 +441,16 @@
                 padding: 0 1rem;
             }
 
-            /* Base grid layout */
-        .innovation-grid,
-        .services-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            justify-content: center;
-            align-items: start;
-            gap: 2rem;
-            margin-top: 3rem;
-}
+            /* Base grid layout - Mobile optimized */
+            .innovation-grid,
+            .services-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+                justify-content: center;
+                align-items: start;
+                gap: 1.5rem;
+                margin-top: 2rem;
+            }
 
             .innovation-card,
             .service-card {
