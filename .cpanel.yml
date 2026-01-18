@@ -3,20 +3,44 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/jarmacz/public_html/
     # Copy only necessary files for production, exclude sensitive data
+
     # HTML pages
     - /bin/cp *.html $DEPLOYPATH 2>/dev/null || true
-    # Static assets
-    - /bin/mkdir -p $DEPLOYPATH/js $DEPLOYPATH/styles $DEPLOYPATH/images $DEPLOYPATH/docs
+
+    # Root-level CSS (main.css if exists)
+    - /bin/cp *.css $DEPLOYPATH 2>/dev/null || true
+
+    # Static assets - create directories first
+    - /bin/mkdir -p $DEPLOYPATH/js $DEPLOYPATH/styles $DEPLOYPATH/images $DEPLOYPATH/docs $DEPLOYPATH/public
+
+    # Copy JavaScript
     - /bin/cp -R js/ $DEPLOYPATH/js/ 2>/dev/null || true
+
+    # Copy stylesheets
     - /bin/cp -R styles/ $DEPLOYPATH/styles/ 2>/dev/null || true
+
+    # Copy images
     - /bin/cp -R images/ $DEPLOYPATH/images/ 2>/dev/null || true
+
+    # Copy public assets (favicon, etc.)
+    - /bin/cp -R public/ $DEPLOYPATH/public/ 2>/dev/null || true
+
     # Copy only PDF documentation (exclude markdown files)
     - /bin/cp docs/*.pdf $DEPLOYPATH/docs/ 2>/dev/null || true
+
     # Backend API
     - /bin/mkdir -p $DEPLOYPATH/api
     - /bin/cp api/app.py $DEPLOYPATH/api/ 2>/dev/null || true
-    - /bin/cp docs/requirements.txt $DEPLOYPATH/ 2>/dev/null || true
-    # Configuration
+    - /bin/cp api/requirements.txt $DEPLOYPATH/api/ 2>/dev/null || true
+
+    # Configuration files
     - /bin/cp .htaccess $DEPLOYPATH 2>/dev/null || true
-    # Explicitly exclude sensitive files
-    # .env files, .git directory, IDE configs, logs, backups are not copied
+
+    # Explicitly exclude sensitive files (not copied):
+    # - .env files
+    # - .git directory
+    # - IDE configs (.vscode, .idea)
+    # - Node modules
+    # - Source files (src/)
+    # - Build artifacts
+    # - Logs and backups
