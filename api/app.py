@@ -381,7 +381,10 @@ def contact():
         
         if email_sent:
             # Log submission
-            logger.info(f"Contact form submitted by {data['email']} - {data['engagement']}")
+            # Sanitize user-controlled fields before logging (prevent log injection)
+            safe_email = str(data.get("email", "")).replace("\n", " ").replace("\r", " ")
+            safe_engagement = str(data.get("engagement", "")).replace("\n", " ").replace("\r", " ")
+            logger.info("Contact form submitted by %s - %s", safe_email, safe_engagement)
             
             return jsonify({
                 'success': True,
