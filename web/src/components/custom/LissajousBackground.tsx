@@ -64,7 +64,7 @@ export default function LissajousBackground() {
     ];
 
     // Create gradient blobs
-    const blobs: GradientBlob[] = gradients.map((g, i) => {
+    const blobs: GradientBlob[] = gradients.map((g) => {
       const el = document.createElement("div");
       el.style.cssText = `
         position: absolute;
