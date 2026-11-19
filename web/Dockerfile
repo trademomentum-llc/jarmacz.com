@@ -26,4 +26,5 @@ COPY --from=build /app/dist ./dist
 COPY package.json .env ./
 
 EXPOSE 3000
+USER node
 CMD ["npm", "start"]
